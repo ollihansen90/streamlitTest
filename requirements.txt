@@ -1,6 +1,4 @@
 torch
 torchvision
-torchaudio
 streamlit==1.2.0
-matplotlib
 nltk
